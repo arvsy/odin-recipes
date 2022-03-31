@@ -1,0 +1,30 @@
+body{
+    max-width: 50vw;
+    text-align: center;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    background-image: url("https://www.baltana.com/files/wallpapers-16/4K-Plain-Blurred-Background-Wallpaper-40969.jpg");
+    /* background-color: tomato; */
+    color:rgb(201, 201, 201);
+    padding:25px 0;
+}
+.wrapper ul{
+    display: inline-block;
+}
+img{
+    max-width: 20vw;
+    height: auto;
+}
+ul,ol{
+    text-align: left;
+}
+h1,h2,h3{
+    color:#d9b48fff;
+}
+a{
+    color:#9cc3d5ff;
+}
+a:hover{
+    color:rgb(255, 255, 255);
+}
