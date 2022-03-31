@@ -3,9 +3,7 @@ body{
     text-align: center;
     margin: auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
     background-image: url("https://www.baltana.com/files/wallpapers-16/4K-Plain-Blurred-Background-Wallpaper-40969.jpg");
-    /* background-color: tomato; */
     color:rgb(201, 201, 201);
     padding:25px 0;
 }
